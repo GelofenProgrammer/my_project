@@ -1,0 +1,122 @@
+.header{
+    margin-top: -10px;
+    margin-left: -8px;
+    width: 1900px;
+    height: 200px;
+    background: linear-gradient(yellow,green);
+    border-radius: 0px 100px 0px;
+    
+}
+.logo{
+    margin-top: 10px;
+    width: 110px;
+    height: 100px;
+    margin-left: 860px;
+    border-radius: 100px;
+    object-fit: cover;
+    box-shadow: 10px 10px yellow;
+}
+.text-header{
+    font-size: 20px;
+    margin-left: 780px;
+    margin-top: 50px;
+    font-family: monospace;
+    color: aliceblue;
+}
+.text-header-Menu{
+    margin-left: 30px;
+}
+.text-header-cartshopping{
+    margin-left: 30px;
+}
+.line{
+    margin-top: 20px;
+    border-color: aquamarine;
+}
+.poster{
+    margin-top: 40px;
+    margin-left: 150px;
+    width: 1600px;
+    height: 600px;
+    border-radius: 0 100px 0;
+}
+.berger{
+    width: 100px;
+    margin-left: 150px;
+}
+.poll{
+    background : linear-gradient(orange,blue);
+    width: 1700px;
+    height: 600px;
+    border-radius: 0 100px 0;
+    margin-left: 120px;
+}
+.poll-text{
+    color: aliceblue;
+    font-family: cursive;
+    font-size: 25px;
+    display: inline-block;
+    margin-top: 110px;
+    margin-left: 100px;
+}
+.line-poll{
+    background-color: orange;
+    width: 500px;
+    height: 10px;
+    margin-top: 20px;
+    margin-left: 300px;
+    border-radius: 10px;
+
+    
+}
+.line-poll2{
+    background-color: aqua;
+    width: 50%;
+    height: 100%;
+    border-radius: 10px;
+}
+.berger-poll{
+    color: aliceblue;
+    font-size: 25px;
+    display: inline-block;
+    margin-left: 300px;
+    margin-top: 50px;
+    font-family: monospace;
+}
+.text-berger2{
+    margin-left: 360px;
+
+}
+.text-pizza2{
+    margin-left: 370px;
+}
+.text-hotdog2{
+    margin-left: 340px;
+}
+.line-poll-pizza{
+    background-color: red;
+    width: 90%;
+    height: 100%;
+    border-radius: 10px;
+}
+.line-poll-hotdog{
+    background-color: fuchsia;
+    width: 40%;
+    height: 100%;
+    border-radius: 10px;
+}
+.footer{
+    width: 1890px;
+    height: 200px;
+    background: linear-gradient(red,blue);
+    border-radius: 100px 0px 100px;
+}
+.text-footer{
+    text-align: center;
+    color: aliceblue;
+    font-size: 25px;
+    display: inline-block;
+    margin-left: 550px;
+    margin-top: 20px;
+    font-family: cursive;
+}

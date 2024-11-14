@@ -1,0 +1,131 @@
+.header{
+    width: 1920px;
+    height: 150px;
+    background-color: black;
+    margin-top: -10px;
+    margin-left: -8px;
+    border-radius: 0 0px 100px;
+}
+.logo{
+    margin-left: 870px;
+    box-shadow: 5px 5px white;
+    border-radius: 100px;
+    margin-top: 20px;
+}
+.text-heder{
+    color: aliceblue;
+    font-size: 20px;
+    font-family: cursive;
+    margin-left: 830px;
+}
+.text-anime{
+    margin-left: 30px;
+}
+.text-code{
+    margin-left: 30px;
+}
+.line{
+    border-style:groove ;
+    border-color: blue  ;
+    box-shadow: 5px 5px white;
+    margin-top: -50px;
+}
+.poster{
+    margin-top: 40px;
+    width: 1890px;
+    height: 700px;
+}
+.coffee5{
+    width: 100px;
+    margin-left: 150px;
+    margin-top: -50px;
+}
+.box-about{
+    width: 1000px;
+    height: 300px;
+    background: linear-gradient(rgb(226, 2, 114),orange);
+    margin-left: 450px;
+    border-radius: 40px 0px 40px;
+    box-shadow: -20px -20px 10px black;
+
+}
+.text-about1{
+    font-size: 25px;
+    color: white;
+    margin-left: 450px;
+    display: inline;
+    margin-top: 60px;
+    font-family: cursive;
+}
+.text-about2{
+    font-size: 25px;
+    color: darkmagenta;
+    margin-top: 100px;
+    display: inline-block;
+    font-family: cursive;
+}
+.text-about3{
+    font-size: 25px;
+    color:white;
+    font-family: cursive;
+}
+.text-about4{
+    font-size: 25px;
+    color:darkviolet;
+    font-family: cursive;
+}
+.text-about5{
+    font-size: 25px;
+    color: aliceblue;
+    font-family: cursive;
+}
+.text-about6{
+    font-size: 25px;
+    color: turquoise;
+    font-family: cursive;
+}
+.text-about7{
+    font-size: 25px;
+    color: aliceblue;
+    font-family: cursive;
+}
+.box-line{
+    width: 1200px;
+    height: 600px;
+    background:linear-gradient(pink,brown);
+    margin-left: 100px;
+    border-radius: 0px 50px 50px;
+    box-shadow: 20px 20px 25px black;
+    
+}
+.text-skill{
+    font-size: 40px;
+    margin-left: 550px;
+    display: inline-block;
+    font-family: unset;
+    
+}
+.text-html{
+    font-size: 40px;
+    font-family: unset;
+    margin-left: 200px;
+
+}
+.box-line1{
+    width: 500px;
+    height: 10px;
+    background-color: blue;
+    display: inline-block;
+    border-radius: 10px;
+    margin-top: 100px;
+}
+.box-line2{
+    width: 80%;
+    height: 100%;
+    background-color: chartreuse;
+    border-radius: 10px;
+}
+.text-line{
+    font-family: unset;
+    font-size: 30px;
+}
