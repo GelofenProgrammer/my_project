@@ -1,0 +1,229 @@
+.head{
+    margin-top: -10px;
+    width: 1920px;
+    margin-left: -8px;
+    height: 60px;
+}
+.logo{
+    margin-left: 1650px;
+    width: 250px;
+    margin-top: 20px;
+    display: inline-block;
+}
+.search{
+    margin-top: -130px;
+    margin-left: 1250px;
+}
+.login{
+    width: 200px;
+    height: 50px;
+    background-color: darkorange;
+    margin-top: -120px;
+    border-radius: 100px;
+    margin-left: 100px;
+}
+.pic-login{
+    width: 50px;
+    margin-top: -40px;
+    display: inline-block;
+    margin-left: 140px;
+    display: inline-block;
+}
+.text-login{
+    font-size: 25px;
+    display: inline-block;
+    margin-top: -7px;
+    margin-left: 20px;
+    font-family: B Titr;
+}
+.cartshopping{
+    width: 150px;
+    margin-top: -100px;
+    margin-left: -40px;
+    display: inline-block;
+}
+.city{
+    width: 300px;
+    height: 50px;
+    border-radius: 100px;
+    background-color: orange;
+    display: inline-block;
+}
+.location-pic{
+    width: 65px;
+    margin-left: 240px;
+    margin-top: -200px;
+    display: inline-block;
+}
+.text-location{
+    font-size: 25px;
+    font-family: B Titr;
+    display: inline-block;
+    margin-left: 60px;   
+}
+.phone{
+    width: 1860px;
+    border-radius: 50px;
+    box-shadow: 25px 25px 25px green;
+}
+.text-best-brand{
+    font-size: 25px;
+    display: inline-block;
+    font-family: B Titr;
+    margin-left: 850px;
+    margin-top: 100px;
+}
+.best-brand1{
+    display: inline-block;
+    width: 100px;
+    margin-left: 250px;
+    margin-top: 50px;
+    border-radius: 100px;
+    box-shadow: 5px 5px 5px red;
+}
+.best-brand2{
+    display: inline-block;
+    width: 100px;
+    margin-left: 250px;
+    margin-top: 50px;
+    border-radius: 100px;
+    box-shadow: 5px 5px 5px blueviolet;
+}
+.best-brand3{
+    display: inline-block;
+    width: 100px;
+    margin-left: 250px;
+    margin-top: 50px;
+    border-radius: 100px;
+    box-shadow: 5px 5px 5px fuchsia;
+}
+.best-brand4{
+    display: inline-block;
+    width: 100px;
+    margin-left: 250px;
+    margin-top: 50px;
+    border-radius: 100px;
+    box-shadow: 5px 5px 5px springgreen;
+}
+.best-brand5{
+    display: inline-block;
+    width: 100px;
+    margin-left: 250px;
+    margin-top: 50px;
+    border-radius: 100px;
+    box-shadow: 5px 5px 5px sienna;
+}
+.box1{
+    width: 300px;
+    height: 400px;
+    background-color: gray;
+    border-radius: 0px 200px 0px ;
+    margin-left: 300px;
+    margin-top: 150px;
+    box-shadow: 30px 30px 30px darkorchid;
+    display: inline-block;
+}
+.iPhone16{
+    width: 200px;
+}
+.text-iphone16{
+    color: aliceblue;
+    margin-left: -200px;
+    font-size: 20px;
+    font-family:cursive;
+}
+.box-add-to-cart{
+    width: 300px;
+    height: 40px;
+    background-color: yellow;
+    border-radius: 0px 25px 0px;
+    box-shadow: 1px 5px 10px rgb(0, 207, 190);
+}
+.text-add-to-cart{
+    font-size: 30px;
+    margin-left: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    
+    
+}
+.box2{
+    width: 300px;
+    height: 400px;
+    background-color: gray;
+    border-radius: 0px 200px 0px ;
+    margin-left: 300px;
+    margin-top: 150px;
+    box-shadow: 30px 30px 30px rgb(0, 255, 13);
+    display: inline-block;
+}
+.box3{
+    width: 300px;
+    height: 400px;
+    background-color: gray;
+    border-radius: 0px 200px 0px ;
+    margin-left: 300px;
+    margin-top: 150px;
+    box-shadow: 30px 30px 30px rgb(255, 0, 200);
+    display: inline-block;
+}
+.box4{
+    width: 300px;
+    height: 400px;
+    background-color: gray;
+    border-radius: 0px 200px 0px ;
+    margin-left: 300px;
+    margin-top: 150px;
+    box-shadow: 30px 30px 30px rgb(255, 174, 0);
+    display: inline-block;
+}
+.box5{
+    width: 300px;
+    height: 400px;
+    background-color: gray;
+    border-radius: 0px 200px 0px ;
+    margin-left: 300px;
+    margin-top: 150px;
+    box-shadow: 30px 30px 30px rgb(255, 0, 0);
+    display: inline-block;
+}
+.box6{
+    width: 300px;
+    height: 400px;
+    background-color: gray;
+    border-radius: 0px 200px 0px ;
+    margin-left: 300px;
+    margin-top: 150px;
+    box-shadow: 30px 30px 30px rgb(0, 238, 255);
+    display: inline-block;
+}
+.box7{
+    width: 300px;
+    height: 400px;
+    background-color: gray;
+    border-radius: 0px 200px 0px ;
+    margin-left: 300px;
+    margin-top: 150px;
+    box-shadow: 30px 30px 30px rgb(0, 4, 255);
+    display: inline-block;
+}
+.box8{
+    width: 300px;
+    height: 400px;
+    background-color: gray;
+    border-radius: 0px 200px 0px ;
+    margin-left: 300px;
+    margin-top: 150px;
+    box-shadow: 30px 30px 30px rgb(229, 255, 0);
+    display: inline-block;
+}
+.box9{
+    width: 300px;
+    height: 400px;
+    background-color: gray;
+    border-radius: 0px 200px 0px ;
+    margin-left: 300px;
+    margin-top: 150px;
+    box-shadow: 30px 30px 30px rgb(0, 255, 170);
+    display: inline-block;
+}
+
