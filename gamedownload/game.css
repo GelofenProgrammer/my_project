@@ -1,0 +1,225 @@
+.header {
+    width: 1900px;
+    height: 200px;
+    background-color: rgb(255, 196, 0);
+    margin-top: -10px;
+    margin-left: -8px;
+    border-radius: 0px 250px 0px;
+    box-shadow: 25px 25px 25px royalblue;
+}
+
+.logo {
+    margin-left: 1550px;
+}
+
+.header-box1 {
+    width: 800px;
+    height: 100px;
+    background-color: black;
+    margin-top: -95px;
+    margin-left: 750px;
+    border-radius: 100px;
+    box-shadow: -30px -10px 25px red;
+}
+
+.pc {
+    width: 100px;
+    margin-left: 50px;
+    display: inline-block;
+
+}
+
+.sony {
+    margin-left: 50px;
+    display: inline-block;
+    width: 120px;
+    margin-top: -10px;
+}
+
+.xbox {
+    margin-left: 50px;
+    display: inline-block;
+    width: 150px;
+}
+
+.android {
+    margin-left: 50px;
+    display: inline-block;
+    width: 100px;
+}
+
+.search {
+    width: 600px;
+    margin-top: -100px;
+    margin-left: 140px;
+}
+
+.sub {
+    margin-left: 400px;
+    border-radius: 100px;
+}
+
+.sub2 {
+    margin-left: 400px;
+    border-radius: 100px;
+    display: inline-block;
+}
+
+.god-of-war {
+    display: inline-block;
+    margin-top: -350px;
+    margin-left: 740px;
+    border-radius: 50px;
+}
+
+.gta {
+    margin-left: 400px;
+    border-radius: 100px;
+}
+
+.nostaloji {
+    margin-top: 20px;
+    margin-left: 500px;
+    border-radius: 50px;
+    display: inline-block;
+}
+
+.mincraft {
+    margin-top: 20px;
+    margin-left: 200px;
+    border-radius: 50px;
+    display: inline-block;
+}
+
+.giftcart {
+    margin-top: 10px;
+    margin-left: 820px;
+    border-radius: 30px;
+}
+
+.line {
+    border-color: red;
+}
+
+.box {
+    width: 1000px;
+    height: 400px;
+    background-color: slateblue;
+    margin-left: 400px;
+    border-radius: 250px 0px 250px;
+    box-shadow: 25px 25px 30px red;
+    margin-top: 100px;
+}
+
+.gtaposter {
+    width: 200px;
+    margin-left: 750px;
+    border-radius: 100px 0px 100px;
+}
+
+.gta-text {
+    font-size: 25px;
+    font-family: B Elham;
+    text-align: right;
+    margin-top: -300px;
+    margin-right: 300px;
+    color: aliceblue;
+}
+
+.volume {
+    font-size: 25px;
+    font-family: B Elham;
+    text-align: right;
+    color: orange;
+    margin-right: 300px;
+}
+
+.box2 {
+    width: 300px;
+    height: 50px;
+    background-color: red;
+    border-radius: 10px;
+    margin-left: 400px;
+}
+
+.text-download {
+    color: aliceblue;
+    font-size: 30px;
+    font-family: B Elham;
+    text-align: center;
+
+}
+
+.box-gtav {
+    width: 1000px;
+    height: 400px;
+    background-color: slateblue;
+    margin-left: 400px;
+    border-radius: 250px 0px 250px;
+    box-shadow: 25px 25px 30px blue;
+    margin-top: 100px;
+}
+
+.box-redemption {
+    width: 1000px;
+    height: 400px;
+    background-color: slateblue;
+    margin-left: 400px;
+    border-radius: 250px 0px 250px;
+    box-shadow: 25px 25px 30px rgb(255, 187, 0);
+    margin-top: 100px;
+}
+
+.box-football {
+    width: 1000px;
+    height: 400px;
+    background-color: slateblue;
+    margin-left: 400px;
+    border-radius: 250px 0px 250px;
+    box-shadow: 25px 25px 30px rgb(0, 183, 255);
+    margin-top: 100px;
+}
+
+.box-warzon {
+    width: 1000px;
+    height: 400px;
+    background-color: slateblue;
+    margin-left: 400px;
+    border-radius: 250px 0px 250px;
+    box-shadow: 25px 25px 30px rgb(60, 255, 0);
+    margin-top: 100px;
+}
+
+.box-mortal {
+    width: 1000px;
+    height: 400px;
+    background-color: slateblue;
+    margin-left: 400px;
+    border-radius: 250px 0px 250px;
+    box-shadow: 25px 25px 30px rgb(0, 255, 179);
+    margin-top: 100px;
+}
+
+.footer {
+    width: 1900px;
+    height: 200px;
+    background-color: rgb(255, 196, 0);
+    margin-top: 100px;
+    border-radius: 250px 250px 0px;
+    margin-left: -5px;
+    box-shadow: 25px 25px 25px blueviolet;
+
+}
+
+.enamad {
+    width: 350px;
+    margin-left: 100px;
+    display: inline;
+}
+
+.pic-footer {
+    width: 100px;
+    display: inline;
+    margin-top: -200px;
+    margin-left: 500px;
+}
