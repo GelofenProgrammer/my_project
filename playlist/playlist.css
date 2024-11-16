@@ -1,0 +1,142 @@
+.header{
+    width: 1920px;
+    height: 200px;
+    background-color: orange;
+    margin-left: -8px;
+    margin-top: -10px;
+    border-radius: 0px 300px 300px;
+    box-shadow: 25px 25px 25px blueviolet;
+}
+.body{
+    background-color: black;
+}
+.header-pic{
+    width: 1000px;
+    margin-top: -350px;
+    display: inline-block;
+}
+.icon-mucic{
+    width: 200px;
+    display: inline-block;
+    margin-left: 1100px;
+    margin-top: -150px;
+}
+.text-header{
+    margin-left: 1400px;
+    padding-top: 45px;
+    font-family: cursive;
+}
+.poster{
+    width: 1800px;
+    height: 600px;
+    margin-top: 120px;
+    margin-left: 50px;
+    border-radius: 250px 0px 250px;
+    box-shadow: 25px 25px 25px gold;
+}
+.box1{
+    width: 550px;
+    height: 200px;
+    background:linear-gradient(orange,gold);
+    border-radius: 250px 25px 25px 25px;
+    display: inline-block;
+    margin-left: 350px;
+    box-shadow: 25px 25px 25px rgb(0, 217, 255);
+}
+.pishro1-pic{
+    width: 200px;
+    border-radius: 100px;
+    display: inline-block;
+    margin-top: -150px;
+    
+}
+.pishro1{
+    margin-left: 210px;
+    margin-top: 40px;
+    display: inline-block;
+}
+.pishro1-text{
+    margin-left: 250px;
+    font-size: 25px;
+    font-family: cursive;
+}
+.box2{
+    width: 550px;
+    height: 200px;
+    background:linear-gradient(orange,gold);
+    border-radius: 25px 250px 25px 25px;
+    display: inline-block;
+    margin-left: 50px;
+    box-shadow: 25px 25px 25px rgb(255, 81, 0);
+}
+.pishro2-pic{
+    width: 200px;
+    border-radius: 100px;
+    display: inline-block;
+    margin-top: -150px;
+    margin-left: 350px;
+    
+}
+.pishro2{
+    margin-left: 20px;
+    margin-top: 40px;
+    display: inline-block;
+}
+.pishro2-text{
+    margin-left:100px;
+    font-size: 25px;
+    font-family: cursive;
+}
+.box3{
+    width: 550px;
+    height: 200px;
+    background:linear-gradient(orange,gold);
+    border-radius: 25px 25px 25px 250px;
+    display: inline-block;
+    margin-left: 350px;
+    box-shadow: 25px 25px 25px green;
+}
+.pishro3-pic{
+    width: 200px;
+    border-radius: 100px;
+    display: inline-block;
+    margin-top: -150px;
+    
+}
+.pishro3{
+    margin-left: 210px;
+    margin-top: 40px;
+    display: inline-block;
+}
+.pishro3-text{
+    margin-left: 250px;
+    font-size: 25px;
+    font-family: cursive;
+}
+.box4{
+    width: 550px;
+    height: 200px;
+    background:linear-gradient(orange,gold);
+    border-radius: 25px 25px 250px 25px;
+    display: inline-block;
+    margin-left: 50px;
+    box-shadow: 25px 25px 25px indianred;
+}
+.pishro4-pic{
+    width: 200px;
+    border-radius: 100px;
+    display: inline-block;
+    margin-top: -150px;
+    margin-left: 350px;
+    
+}
+.pishro4{
+    margin-left: 20px;
+    margin-top: 40px;
+    display: inline-block;
+}
+.pishro4-text{
+    margin-left:100px;
+    font-size: 25px;
+    font-family: cursive;
+}
