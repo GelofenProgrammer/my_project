@@ -1,0 +1,88 @@
+.gmail-text{
+    font-size: 25px;
+    display: inline-block;
+    margin-left: 1500px;
+    font-family: cursive;
+}
+
+.images-text{
+    font-size: 25px;
+    display: inline-block;
+    margin-left: 50px;
+    font-family: cursive;
+
+}
+.app-google{
+    width: 25px;
+    display: inline-block;
+    margin-top: 10px;
+    margin-left:10px;
+}
+.box-sign-in{
+    display: inline-block;
+    width: 100px;
+    height: 40px;
+    background-color: blue;
+    color: aliceblue;
+    border-radius: 100px;
+    margin-top: 10px;
+    margin-left:20px;
+}
+.sign-in{
+    font-size: 22px;
+    margin-left: 15px;
+    margin-top: 5px;
+    font-family: cursive;
+}
+.logo-google{
+    width: 700px;
+    margin-top: 100px;
+    margin-left: 540px;
+}
+.search-box{
+    width: 700px;
+    height: 50px;
+    margin-left: 550px;
+    border-radius: 100px;
+    margin-top: 10px;
+    background-color: blanchedalmond;
+    box-shadow: 25px 25px 25px darkorange;
+}
+.logo-search{
+    width: 50px;
+    margin-left: 10px;
+}
+.google-mic{
+    width: 30px;
+    margin-left: 540px;
+}
+.pic{
+    width: 50px;
+}
+.box-google{
+    width: 200px;
+    height: 50px;
+    background-color: blanchedalmond;
+    border-radius: 100px;
+    margin-top: 50px;
+    margin-left: 650px;
+    box-shadow: 5px 10px 10px red;
+    display: inline-block;
+}
+.text-google{
+    font-size: 25px;
+    margin-left: 10px;
+    margin-top: 10px;
+    font-family: cursive;
+}
+.box-google2{
+    width: 210px;
+    height: 50px;
+    background-color: blanchedalmond;
+    border-radius: 100px;
+    margin-top: 50px;
+    margin-left: 100px;
+    box-shadow: 5px 10px 10px rgb(255, 0, 85);
+    display: inline-block;
+
+}
